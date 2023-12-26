@@ -6,7 +6,9 @@
 ![1](https://github.com/Evgenpump71/Project1/assets/144489649/c6847a15-fc49-4088-9b8e-40c57f48411a)
 ![2](https://github.com/Evgenpump71/Project1/assets/144489649/ca4e4904-b839-4cfa-b762-3d877e4cb4b8)
 
+
 # Поиск решений
+
 Рассмотрев типовые конструкции идентичных органайзеров стало понятно по какому принципу крепятся пистолеты.
 ![image](https://github.com/Evgenpump71/glue-organizer/assets/144489649/091f9060-a2a6-4867-9c19-aa77784066e6)
 
