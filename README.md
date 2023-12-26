@@ -45,7 +45,8 @@ https://youtube.com/shorts/jakVuuxof6U
 
 # Изделие в работе
 
-![Uploading photo_2023-12-26_18-15-22.jpg…]()
+![photo_2023-12-26_18-15-22](https://github.com/Evgenpump71/glue-organizer/assets/144489649/54f90c6d-d9fa-4c05-a4bf-4cf00ad7b380)
+
 
 
 
